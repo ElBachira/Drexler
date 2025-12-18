@@ -82,8 +82,8 @@ document.addEventListener('DOMContentLoaded', function() {
     // =================================================================
     const songs = [
         {
-            title: "Without Me",
-            artist: "Halsey",
+            title: "Cactus",
+            artist: "Nasa Histoires",
             src: "song.mp3",
             lyrics: [
   { "time": 13, "line": "Hoy, guardo un secreto" },
